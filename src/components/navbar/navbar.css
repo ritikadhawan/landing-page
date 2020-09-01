@@ -1,0 +1,9 @@
+.navbar-brand {
+    width: 7rem;
+    height: 3rem;
+    padding: 0;
+}
+.launch-button button {
+    background-color: var(--orange);
+    color: white;
+}
