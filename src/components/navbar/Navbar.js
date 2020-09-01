@@ -5,7 +5,7 @@ export class Navbar extends Component {
     render() {
         return (
             <div>
-                <nav className="navbar navbar-expand-lg navbar-light pr-md-5 pl-md-5 py-2 fixed-top">
+                <nav className="navbar navbar-expand-lg navbar-light container-lg container-fluid py-2 fixed-top">
                     <a className="navbar-brand" href="#">
                         <img className="w-50 h-100" src="./logo.png"/>
                         <img className="w-50 h-100" src="./logo2.png"/>

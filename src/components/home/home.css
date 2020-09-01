@@ -1,0 +1,22 @@
+.home {
+    margin-top: 10rem;
+}
+.home h6 {
+    color: var(--orange);
+}
+.home h1 {
+    font-weight: bold;
+}
+.orangeText {
+    color: var(--orange);
+    font-size: inherit;
+    font-weight: inherit;
+}
+.button-container button:first-child{
+    background-color: var(--orange);
+    color: white
+}
+.button-container .btn-outline {
+    color: var(--orange);
+    border-color: var(--orange);
+}
